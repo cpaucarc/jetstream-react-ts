@@ -21,6 +21,7 @@ npx laravel-jetstream-react@latest install
 
 ## Other tested libraries
 - [**Zustand**](https://docs.pmnd.rs/zustand/getting-started/introduction) library
+- [**Heroicons React**](https://heroicons.com/) library
 - [**UI Avatars**](https://ui-avatars.com/) API
 
 ## Others
