@@ -30,8 +30,8 @@ npx laravel-jetstream-react@latest install
 ## How to clone locally
 ```bash
 # Clone from github
-git clone https://github.com/cpaucarc/sgc.git
-cd sgc/
+git clone https://github.com/cpaucarc/jetstream-react-ts.git
+cd jetstream-react-ts/
 
 # Install composer and node dependencies
 composer install
